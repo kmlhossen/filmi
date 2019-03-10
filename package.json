@@ -1,0 +1,14 @@
+{
+  "name": "filmi",
+  "version": "0.0.1",
+  "description": "A social film review platform",
+  "main": "index.js",
+  "author": "kamal",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
